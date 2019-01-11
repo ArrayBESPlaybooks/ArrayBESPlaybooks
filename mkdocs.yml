@@ -1,0 +1,40 @@
+site_name: BES Playbooks
+
+nav:
+- BES Playbooks: index.md
+- Agile - 1 Overview: agile 1.md
+- -2 Agile Transformation: agile 2.md
+- -3 Applying Agile Methods and Mindset Within The Air Force: agile 3.md
+- -4 Agile Architecture: agile 4.md
+- -5 Agile Framework: agile 5.md
+- -6 Appendix A - Key Events Plays: agileappend_a.md
+- -7 Appendix B - Key Personnel Plays: agileappend_b.md
+- -8 Appendix C - Key Links: agileappend_c.md
+- -9 Appendix D - Agile Terminology: agileappend_d.md
+- -10 Appendix E - Glossary: agileappend_e.md
+- Automated Testing - 1 Overview: automation 1.md
+- -2 Test Automation: automation 2.md
+- -3 Roles in Test Automation: automation 3.md
+- -4 Scope of Test Automation: automation 4.md
+- -5 Developing a Test Automation Solution: automation 5.md
+- -6 Migrating From Manual to Automated Testing: automation 6.md
+- -7 Test Automation Development Lifecycle: automation 7.md
+- -8 Effectiveness Measurements: automation 8.md
+- -9 Reporting: automation 9.md
+- -10 Looking Ahead: automation 10.md
+- -Appendix A Resources: autotestappend_a.md
+- -Appendix B Test Tools: autotestappend_b.md
+- CDRL List Page 1: cdrl_list1.md
+- CDRL List Page 2: cdrl_list2.md
+- CDRL List Page 3: cdrl_list3.md
+- CDRL List Page 4: cdrl_list4.md
+- CDRL List Page 5: cdrl_list5.md
+- CDRL List Page 6: cdrl_list6.md
+- CDRL List Page 7: cdrl_list7.md
+- CDRL List Page 8: cdrl_list8.md
+- CDRL List Page 9: cdrl_list9.md
+- CDRL List Page 10: cdrl_list10.md
+- CDRL List Page 11: cdrl_list11.md
+
+
+theme: readthedocs
